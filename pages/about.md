@@ -9,6 +9,10 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+## About Water is Still Life
+
+This site exists to collect and index Native American and Indigenous resistance to AI infrastructure projects. It's created by Marco Seiferle-Valencia, Associate Professor, University of Idaho Library. 
+
 
 ## About CollectionBuilder-Sheets
 
