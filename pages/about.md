@@ -18,9 +18,8 @@ This site exists to collect and index Native American and Indigenous resistance 
 Users can fill out our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfpqvtiz4FDHcx7GvJeRv_TmVX8hv3DphEd858U81F8L8AV6w/viewform?usp=sharing&ouid=112866992831532553930) to suggest other projets and community resistance efforts to AI that should be included.
 
 To be eligible an entry must:
-
-    Describe a recent or ongoing data center or energy infrastructure project 
-    Describe community resistance or opposition
+-Describe a recent or ongoing going data center or energy infrastructure project
+-Describe community resistance or opposition
 
 We are especially interested in Native, Indigenous, and BIPOC resistance to data centers and AI related infrastructure projects. 
 
